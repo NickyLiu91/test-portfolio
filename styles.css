@@ -2,3 +2,8 @@ img {
     height: 50px;
     width: 50px
 }
+
+#project {
+    display: flex;
+    flex-direction: row;
+}
